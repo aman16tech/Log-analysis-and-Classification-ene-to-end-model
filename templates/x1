@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Ticket Generation</h2>
+
+<div>
+
+	<form action="\predict", method="POST">
+
+		<input type="submit"  value="Click here to check Alerts">
+	</form>
+
+</div>
+</body>
+</html>
